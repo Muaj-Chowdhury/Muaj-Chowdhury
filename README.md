@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+Currently, I'm focused on expanding my knowledge in **NEXT** and **Typescript** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
 ---
 
@@ -19,6 +19,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=%23311C87&logoColor=green&logoSize=auto&label=docker&labelColor=gray&color=hex&cacheSeconds=3600">
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
