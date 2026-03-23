@@ -19,19 +19,20 @@ Currently, I'm focused on expanding my knowledge in **NEXT** and **Typescript** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=%23311C87&logoColor=green&logoSize=auto&label=docker&labelColor=gray&color=hex&cacheSeconds=3600">
+
+
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
+
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 ---
 
 ## 🌐 Connect With Me  
