@@ -46,12 +46,3 @@ Currently, I'm focused on expanding my knowledge in **NEXT** and **Typescript** 
 
 ---
 
-## 📊 GitHub Stats  
-
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
