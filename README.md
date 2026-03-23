@@ -19,8 +19,7 @@ Currently, I'm focused on expanding my knowledge in **NEXT** and **Typescript** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Next.js](https://img.shields.io)
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=social&logo=%23311C87&logoColor=green&logoSize=auto&label=docker&labelColor=gray&color=hex&cacheSeconds=3600">
 
 ### **Backend**
