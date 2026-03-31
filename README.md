@@ -1,11 +1,11 @@
 
 <img width="2064" height="512" alt="banner" src="https://github.com/user-attachments/assets/8f826274-830c-401e-9825-142946bd89f2" />
-# Hi 👋, I'm Muaaj Chowdhury 
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi, I'm Muaaj Chowdhury 
+###  I build interactive, effective, and scalable web applications  
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
 Currently, I'm focused on expanding my knowledge in **NEXT** and **Typescript** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
 
